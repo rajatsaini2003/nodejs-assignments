@@ -16,3 +16,5 @@ Refactor an existing piece of code that uses callbacks for async operations to u
 - [Week 5](./Week-5/): Develop a simple application to Create, Read, Update, and Delete (CRUD) entries in a MongoDB database using Mongoose.
 
 - [Week 6](./Week-6/): Create a RESTful API using Node.js and Express that supports basic CRUD operations on a resource (like users, products, etc.)
+
+- [Week 7](./Week-7/): Add JSON Web Token (JWT) authentication to your existing RESTful API. Ensure secure handling of tokens and implement a protected route.
